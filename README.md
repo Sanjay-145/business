@@ -8,34 +8,35 @@ This innovation not only enhances productivity but also fosters efficient commun
 ### Hardware Requirements
 The hardware requirements for the implementation of the proposed cosmetic product comparison system from handwritten images are outlined below:
 
-High-Performance Workstation:
+### High-Performance Workstation:
 A workstation with a multicore processor (e.g., Intel Core i7 or AMD Ryzen 7) for parallel processing.
 
-Graphics Processing Unit (GPU):
+### Graphics Processing Unit (GPU):
 A dedicated GPU (e.g., NVIDIA GeForce RTX series) for accelerated computations, especially for deep learning tasks.
-Memory (RAM):
 
+### Memory (RAM):
 Minimum 16GB of RAM to handle the computational demands of OCR and image processing tasks.
-Storage:
+
+### Storage:
 Adequate storage space (preferably SSD) to accommodate large datasets and model files.
 
-High-Resolution Display:
+### High-Resolution Display:
 A high-resolution 5 for detailed image analysis and visualization.
 
 ### Software Requirements
 The software requirements for the successful deployment of the cosmetic product comparison system are as follows:
 
-Operating System:
+### Operating System:
 A 64-bit operating system, such as Windows 10 or Ubuntu, for compatibility with modern deep learning frameworks.
 
-Development Environment:
+### Development Environment:
 Python programming language (version 3.6 or later) for coding the OCR
 system.
 
-Deep Learning Frameworks:
+### Deep Learning Frameworks:
 Installation of deep learning frameworks, including longformer, to leverage pre-trained models and facilitate model training.
 
-Sklearn Libraries:
+### Sklearn Libraries:
 Integration of transformer libraries,  to incorporate the existing knowledge of the summarizer and analyzing large text inputs.
 
 ### PROJECT ARCHITECTURE
